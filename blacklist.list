@@ -28,7 +28,7 @@ https://iplists.firehol.org/files/maxmind_proxy_fraud.ipset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/urlvir.ipset
-
+ 
 # https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
 # https://iplists.firehol.org/files/botvrij_dst.ipset
 # https://iplists.firehol.org/files/socks_proxy_1d.ipset
