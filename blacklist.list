@@ -5,13 +5,13 @@
 #####################################################################################################
 
 #####################################################################################################
-# Lists that are used on SNB Forums
+# FIREHOL.ORG
 #####################################################################################################
 https://iplists.firehol.org/files/alienvault_reputation.ipset
 https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/bi_any_2_30d.ipset
 https://iplists.firehol.org/files/blocklist_net_ua.ipset
-https://iplists.firehol.org/files/botvrij_dst.ipset
+# https://iplists.firehol.org/files/botvrij_dst.ipset
 https://iplists.firehol.org/files/ciarmy.ipset
 https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
@@ -21,9 +21,9 @@ https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/et_block.netset
 https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/et_spamhaus.netset
-# https://iplists.firehol.org/files/et_tor.ipset
-# https://iplists.firehol.org/files/firehol_level1.netset
-# https://iplists.firehol.org/files/firehol_level2.netset
+https://iplists.firehol.org/files/et_tor.ipset
+https://iplists.firehol.org/files/firehol_level1.netset
+https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/greensnow.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
@@ -32,11 +32,11 @@ https://iplists.firehol.org/files/malc0de.ipset
 https://iplists.firehol.org/files/maxmind_proxy_fraud.ipset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
-https://iplists.firehol.org/files/socks_proxy_1d.ipset
+# https://iplists.firehol.org/files/socks_proxy_1d.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
-https://iplists.firehol.org/files/sslproxies_1d.ipset
-https://iplists.firehol.org/files/tor_exits_30d.ipset
+# https://iplists.firehol.org/files/sslproxies_1d.ipset
+# https://iplists.firehol.org/files/tor_exits_30d.ipset
 https://iplists.firehol.org/files/urlvir.ipset
 
 #####################################################################################################
@@ -46,7 +46,7 @@ https://iplists.firehol.org/files/urlvir.ipset
 # https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 # https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 # https://sigs.interserver.net/iprbl.txt
-# https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 # https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 # https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
 # https://www.binarydefense.com/banlist.txt
