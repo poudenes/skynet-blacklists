@@ -35,8 +35,8 @@ https://iplists.firehol.org/files/urlvir.ipset
 # https://iplists.firehol.org/files/sslproxies_1d.ipset
 # https://iplists.firehol.org/files/tor_exits_30d.ipset
 
-https://iplists.firehol.org/files/et_compromised.ipset # INCLUDED IN ET_BLOCK.NETSET
-https://iplists.firehol.org/files/et_spamhaus.netset # INCLUDED IN ET_BLOCK.NETSET
+# https://iplists.firehol.org/files/et_compromised.ipset # INCLUDED IN ET_BLOCK.NETSET
+# https://iplists.firehol.org/files/et_spamhaus.netset # INCLUDED IN ET_BLOCK.NETSET
 # https://iplists.firehol.org/files/spamhaus_drop.netset # INCLUDED IN ET_BLOCK.NETSET
 # https://iplists.firehol.org/files/spamhaus_edrop.netset # INCLUDED IN ET_BLOCK.NETSET
 # https://iplists.firehol.org/files/blocklist_net_ua.ipset # BLOCKLIST FOR SMTP MAIL SERVERS. BLOCK SPAM EMAIL
