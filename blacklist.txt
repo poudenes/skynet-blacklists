@@ -10,28 +10,28 @@ https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/bi_any_2_30d.ipset
 https://iplists.firehol.org/files/ciarmy.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
-#https://iplists.firehol.org/files/dm_tor.ipset
-#https://iplists.firehol.org/files/dshield.netset
-#https://iplists.firehol.org/files/dyndns_ponmocup.ipset
-#https://iplists.firehol.org/files/et_block.netset
-#https://iplists.firehol.org/files/et_tor.ipset
-#https://iplists.firehol.org/files/firehol_level1.netset
-#https://iplists.firehol.org/files/firehol_level2.netset
-#https://iplists.firehol.org/files/firehol_level3.netset
-#https://iplists.firehol.org/files/greensnow.ipset
-#https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
-#https://iplists.firehol.org/files/iblocklist_pedophiles.netset
-#https://iplists.firehol.org/files/malc0de.ipset
-#https://iplists.firehol.org/files/maxmind_proxy_fraud.ipset
-#https://iplists.firehol.org/files/normshield_high_attack.ipset
-#https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
-#https://iplists.firehol.org/files/urlvir.ipset
+https://iplists.firehol.org/files/dm_tor.ipset
+https://iplists.firehol.org/files/dshield.netset
+https://iplists.firehol.org/files/dyndns_ponmocup.ipset
+https://iplists.firehol.org/files/et_block.netset
+https://iplists.firehol.org/files/et_tor.ipset
+https://iplists.firehol.org/files/firehol_level1.netset
+https://iplists.firehol.org/files/firehol_level2.netset
+https://iplists.firehol.org/files/firehol_level3.netset
+https://iplists.firehol.org/files/greensnow.ipset
+https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
+https://iplists.firehol.org/files/iblocklist_pedophiles.netset
+https://iplists.firehol.org/files/malc0de.ipset
+https://iplists.firehol.org/files/maxmind_proxy_fraud.ipset
+https://iplists.firehol.org/files/normshield_high_attack.ipset
+https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
+https://iplists.firehol.org/files/urlvir.ipset
  
-# https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
-# https://iplists.firehol.org/files/botvrij_dst.ipset
-# https://iplists.firehol.org/files/socks_proxy_1d.ipset
-# https://iplists.firehol.org/files/sslproxies_1d.ipset
-# https://iplists.firehol.org/files/tor_exits_30d.ipset
+https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
+https://iplists.firehol.org/files/botvrij_dst.ipset
+https://iplists.firehol.org/files/socks_proxy_1d.ipset
+https://iplists.firehol.org/files/sslproxies_1d.ipset
+https://iplists.firehol.org/files/tor_exits_30d.ipset
 
 # https://iplists.firehol.org/files/et_compromised.ipset # INCLUDED IN ET_BLOCK.NETSET
 # https://iplists.firehol.org/files/et_spamhaus.netset # INCLUDED IN ET_BLOCK.NETSET
